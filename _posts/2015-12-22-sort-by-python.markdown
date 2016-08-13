@@ -7,7 +7,10 @@ tags: python sorting algorithm
 author: xiaOvan
 ---
 
-1.选择排序
+* content 
+{:toc}
+
+## 1.选择排序
 ---
 
 
@@ -29,7 +32,7 @@ def selectionsort(lst):
         return lst
 ```
 
-2.冒泡排序
+## 2.冒泡排序
 ---
 
 
@@ -44,7 +47,7 @@ def bubblesort(lst):
         return lst
 ```
 
-3.插入排序
+## 3.插入排序
 ---
 
 
