@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+<<<<<<< HEAD
+  <body>
+
+    {% include header.html %}
+
+        {{ content }}
+
+    {% include footer.html %}
+    {% include backToTop.html %}
+    <script src="{{ " /js/main.js " | prepend: site.baseurl }}" charset="utf-8"></script>
+    <script src="{{ " /js/scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script>
+  </body>
+
+</html>
+=======
+    <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrap">
+      {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>
+>>>>>>> 4b7e0157351857fb1958ef19720abc6d134ee703
