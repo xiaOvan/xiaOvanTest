@@ -3,7 +3,7 @@ layout: post
 title: SVM及逻辑回归在建模时候的选择
 date: 2016-02-01 15:32:24.000000000 +09:00
 categories: ML
-tags:ML
+tags: ML
 author: xiaOvan
 ---
 
