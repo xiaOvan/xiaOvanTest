@@ -33,6 +33,6 @@ sudo ls -s /System/Library/Frameworks/Python.framework/Versions/3.5/bin/easy_ins
 sudo ls -s /System/Library/Frameworks/Python.framework/Versions/3.5/bin/pip3 /usr/bin/pip
 ```
 
-重建链接后，问题解决
+重建链接后，问题解决,同理其他存在2.7的链接也需要切换到3.5版本的链接
 
 [ref]: http://shyhornet.github.io/2015/10/21/mac(OSX%2010.11)%E4%B8%8A%E6%9B%B4%E6%96%B0Python/
