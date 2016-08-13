@@ -10,7 +10,8 @@ author: xiaovan
 * content
 {:toc}
 
-##问题
+## 问题
+
 因遇到问题后stackoverflow和网站上没有发现有人写，自己就记录一下，首先按照[python升级参考][ref]将mac上的python版本升级到3.5
 
 升级后，easy_install和pip命令均无法使用，报错如下:
@@ -24,7 +25,7 @@ continue
 TabError: inconsistent use of tabs and spaces in indentation
 ```
 
-##解决办法
+## 解决办法
 
 ```bash
 sudo rm -f /usr/bin/easy_install*
