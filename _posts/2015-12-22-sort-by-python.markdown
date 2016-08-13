@@ -7,7 +7,7 @@ tags: python sorting algorithm
 author: xiaOvan
 ---
 
-* content 
+* content
 {:toc}
 
 ## 1.选择排序
