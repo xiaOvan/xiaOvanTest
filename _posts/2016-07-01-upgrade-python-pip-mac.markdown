@@ -2,14 +2,13 @@
 layout: post
 title: "mac上升级python遇到easy_install,pip无法使用的解决办法"
 date: 2016-07-01 15:32:24
-categories: python安装
+categories: pip升级
 tags: python pip
 author: xiaovan
 ---
 
 * content
 {:toc}
-
 
 ##问题
 因遇到问题后stackoverflow和网站上没有发现有人写，自己就记录一下，首先按照[python升级参考][ref]将mac上的python版本升级到3.5
