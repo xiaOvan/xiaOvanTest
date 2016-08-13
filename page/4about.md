@@ -8,25 +8,24 @@ icon: heart
 * content
 {:toc}
 
-## 关于我
+## About Me
 
-xiaOv
+Nickname:xiaOv
+Location:Chengdu,China
 
-* 
-* 
-* 
-* 
-* 
-* 
+* 2013.2-now 兴业银行信息科技部
+* 2009.7-2013.1 中国工商银行软件研发中心（杭州）  
+* 2009 毕业于西南交通大学软件学院
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
+* GitHub：[xiaOvan](https://github.com/xiaOvan)
+* email：chrisfx@126.com
+* [Weibo](http://weibo.com/fanxiongloveu)
 
 ## 关于本站
 
+* way on learning ml
 
 ## Comments
 
