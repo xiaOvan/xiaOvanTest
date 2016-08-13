@@ -11,8 +11,6 @@ author: xiaOvan
 {:toc}
 
 ## 1.选择排序
----
-
 
 代码:
 
@@ -33,8 +31,6 @@ def selectionsort(lst):
 ```
 
 ## 2.冒泡排序
----
-
 
 代码:
 
@@ -48,8 +44,6 @@ def bubblesort(lst):
 ```
 
 ## 3.插入排序
----
-
 
 代码:
 

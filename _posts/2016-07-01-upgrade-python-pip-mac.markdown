@@ -4,7 +4,7 @@ title: "mac上升级python遇到easy_install,pip无法使用的解决办法"
 date: 2016-07-01 15:32:24
 categories: pip升级
 tags: python pip
-author: xiaovan
+author: xiaOvan
 ---
 
 * content
