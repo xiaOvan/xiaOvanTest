@@ -2,6 +2,9 @@
 layout: post
 title: 利用python实现几个排序算法
 date: 2015-12-22
+categories: algorithm
+tags: python sorting algorithm
+author: xiaOvan
 ---
 
 1.选择排序
