@@ -14,6 +14,11 @@ icon: bookmark
 
 * [Andrew Cousera教程代码实现](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
 
+## Websites
+
+* [python网站 编程派](http://codingpy.com/)
+
+
 ## Comments
 
 {% include comments.html %}
