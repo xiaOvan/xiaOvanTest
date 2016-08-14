@@ -12,7 +12,7 @@ icon: bookmark
 
 ## Blog
 
-* [Andrew Cousera教程代码实现][http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/]
+* [Andrew Cousera教程代码实现](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
 
 ## Comments
 
