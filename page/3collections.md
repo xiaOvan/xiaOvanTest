@@ -19,6 +19,9 @@ icon: bookmark
 * [python网站 编程派](http://codingpy.com/)
 * [Jackie_Zhu的专栏](http://blog.csdn.net/usingnamespace_std/article/category/1410392)
 
+## Paper
+
+* [kdd xgboost](http://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
 
 ## Comments
 
