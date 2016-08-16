@@ -19,6 +19,7 @@ icon: bookmark
 * [python网站 编程派](http://codingpy.com/)
 * [Jackie_Zhu的专栏](http://blog.csdn.net/usingnamespace_std/article/category/1410392)
 * [scikit-learn工具包](http://scikit-learn.org/)
+* [数据特征工程sklearn](http://www.cnblogs.com/jasonfreak/p/5448385.html)
 
 ## Paper
 
