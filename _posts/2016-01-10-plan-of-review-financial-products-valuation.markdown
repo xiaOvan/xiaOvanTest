@@ -2,8 +2,8 @@
 layout: post
 title: 金融产品估值及方法回顾
 date: 2016-01-10 15:32:24.000000000 +09:00
-categories: financial products,bond,spot,forward,swap,irs,options 
-tags: bigdata algorithm financial products
+categories: financial products 
+tags: model algorithm financial products
 author: xiaOvan
 ---
 
