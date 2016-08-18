@@ -3,7 +3,7 @@ layout: post
 title: 金融市场产品估值及方法回顾
 date: 2016-01-10 15:32:24.000000000 +09:00
 categories: financial_products 
-tags: model algorithm financial products derivatives
+tags: model algorithm financial products derivatives foreignexchange
 author: xiaOvan
 ---
 
@@ -17,17 +17,31 @@ author: xiaOvan
 
 ## 金融产品介绍
 
-* spot
-* forward
-* swap
-* fixed rate bond
-* float rate bond
-* irs
-* options
-
+  先介绍一些术语:
+* 日期(Dates)
+    + maturity_day 
+    + valuation_day 
+    + settlement_day
+* 汇率
+    + spot rate
+    + forward rate
+* 利率
+    + par rate
+    + sport/forward rate 
+* 价格(price)
+    + market price
+    + clean price
+    + coupon par price
+    + notional 
 ### 外汇即期
 
-	spot
+#### 产品定义
+
+    外汇即期(Spot):
+
+#### 估值方法
+
+    ValuationOfSpot = 
 
 ### 外汇远期
 
