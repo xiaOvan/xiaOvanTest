@@ -18,6 +18,7 @@ author: xiaOvan
 ## 金融产品介绍
 
   先介绍一些术语:
+
 * 日期(Dates)
     + maturity_day 
     + valuation_day 
@@ -33,17 +34,17 @@ author: xiaOvan
     + clean price
     + coupon par price
     + notional 
-### 外汇即期
+### 1.外汇即期
 
-#### 产品定义
+#### 1.1 产品定义
 
     外汇即期(Spot):
 
-#### 估值方法
+#### 1.2 估值方法
 
     ValuationOfSpot = 
 
-### 外汇远期
+### 2.外汇远期
 
 	forward
 
