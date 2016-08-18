@@ -18,24 +18,39 @@ author: xiaOvan
 
 ##产品介绍
 
+* spot
+* forward
+* swap
+* fixed rate bond
+* float rate bond
+* irs
+* options
 
 ###外汇即期
 
+	spot
 
 ###外汇远期
 
+	forward
 
 ###外汇掉期
 
+	swap
 
 ###固定利率债券
 
+	fixed rate bond
 
 ###浮动利率债券
 
+	float rate bond
 
 ###利率互换协议
-
+	
+	irs
 
 ###欧式(美式)期权
+	
+	options
 
