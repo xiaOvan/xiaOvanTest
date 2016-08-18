@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 金融产品估值及方法回顾
+title: 金融市场产品估值及方法回顾
 date: 2016-01-10 15:32:24.000000000 +09:00
 categories: financial_products 
-tags: model algorithm financial products
+tags: model algorithm financial products derivatives
 author: xiaOvan
 ---
 
