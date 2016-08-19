@@ -81,6 +81,7 @@ bst <- xgboost(data = train$data, label = train$label, max.depth = 2, eta = 1, n
 pred <- predict(bst, test$data)
 ```
 
+
 ##其他资料
 
 * [how to develop ur first xgboost model in python](http://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
