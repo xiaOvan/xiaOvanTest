@@ -82,7 +82,7 @@ pred <- predict(bst, test$data)
 ```
 
 
-##其他资料
+## 其他资料
 
 * [how to develop ur first xgboost model in python](http://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
 * [快速上手：在R中使用XGBoost算法](http://www.tuicool.com/articles/MFn6by#0-tsina-1-21840-397232819ff9a47a7b7e80a40613cfe1)
