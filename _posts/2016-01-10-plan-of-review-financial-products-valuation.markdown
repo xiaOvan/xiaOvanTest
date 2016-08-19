@@ -61,11 +61,8 @@ author: xiaOvan
 #### 1.2 估值方法
 
     场景：我有1000美元的名义本金，我与我的交易对手以美元对人民币1:6.8（USD/CNY=6.8)的价格进行货币互换，那么我能买入到6800的人民币，而卖出1000美金，所以我的即期合约估值价格为：
-    
     ValuationOfSpot = Notional * spotRate
-
     假设实际市场汇率为 MarketRate，那么我在此次交易中我的损益即为
-    
     P&L = Notional * (spotRate - MarketRate)
 
 ### 2.外汇远期
