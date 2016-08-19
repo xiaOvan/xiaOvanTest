@@ -64,6 +64,10 @@ author: xiaOvan
     
     ValuationOfSpot = Notional * spotRate
 
+    假设实际市场汇率为 MarketRate，那么我在此次交易中我的损益即为
+    
+    P&L = Notional * (spotRate - MarketRate)
+
 ### 2.外汇远期
 
 #### 2.1 产品定义
