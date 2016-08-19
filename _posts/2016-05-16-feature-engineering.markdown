@@ -22,6 +22,8 @@ author: xiaOvan
 
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So if you're playing with pixels and creating new x's, you're doing feature engineering.  If you're one of those that's proud to be using a system which learns features automatically, but you're playing with activation functions, layer topologies, and learning rates, then you're architecture engineering.  At the end of the day, there still needs to be a smart person (usually a PhD) that is twiddling some knobs (anywhere between 1 day and 10 years) and the resulting awesome-performance you'll obtain will be both a triumph for man and machine.
 
+![image](http://o7q84v6xt.bkt.clouddn.com/feature-engineering.jpg)
+
 ## 2.数据预处理
 
 ## 3.特征选择
