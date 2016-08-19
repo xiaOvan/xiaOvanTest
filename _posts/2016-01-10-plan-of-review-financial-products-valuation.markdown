@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 金融市场产品估值及方法回顾
+title: 金融市场产品估值方法回顾
 date: 2016-01-10 15:32:24.000000000 +09:00
-categories: financial_products
+categories: financial_products model_valuation
 tags: model algorithm financial products derivatives foreignexchange
 author: xiaOvan
 ---
@@ -15,9 +15,9 @@ author: xiaOvan
         因准备FRM考试，在这里回顾一下金融市场产品估值模型及背后业务含义，并且包括实现过程。
 
 
-## 金融产品介绍
+## 估值模型准备工作
 
-  一些术语(Terms):
+### 术语(Terms):
 
 * 日期(Dates)
     + maturity_date:产品到期日期
@@ -42,8 +42,28 @@ author: xiaOvan
     + face value:（债券）票面价格
     + bid/offer/mid: 
 
-  具体术语到产品估值模型介绍时再详细介绍
- 
+  具体术语到产品估值模型介绍时再详细介绍,本文将介绍的金融市场产品如下:
+
+* Spot
+* Forward
+* Swap
+* Fixed Rate Bond
+* Float Rate Bond
+* Interest Rate Swap
+* Options
+
+### 常见估值模型
+
+#### Discounted Cash Flow(DCF)
+    
+    金融市场产品最常见及最常用的模型，没有之一，现金流折现是将按照标的产品未来的价值按照折线利率进行着先到估值日期，如果折现到估值日期后的价格大于目前标的产品的市场价格，那该产品为一个优秀的标的产品
+    计算方法:
+    DCF = 
+    
+### Two or Three Factor Model
+
+### B/S Model
+
 ### 0.通用参数及惯例
 
 #### 0.1 日期惯例
@@ -56,22 +76,25 @@ author: xiaOvan
 
 #### 1.1 产品定义
 
-    外汇即期(Spot Exchange Transactions):指外汇买卖（以约定的汇率进行货币交换）成交后，交易双方与当天或者两个交易日内完成交割(deliver)的交易行为,通常属于场内交易，有实际的货币或商品互换行为。
+    外汇即期(Spot Currency Swap:指外汇买卖（以约定的汇率进行货币交换）成交后，交易双方与当天或者两个交易日内完成交割(deliver)的交易行为,通常属于场内交易，有实际的货币或商品互换行为。
 
 #### 1.2 估值方法
 
-    场景：我有1000美元的名义本金，我与我的交易对手以美元对人民币1:6.8（USD/CNY=6.8)的价格进行货币互换，那么我能买入到6800的人民币，而卖出1000美金，所以我的即期合约估值价格为：
+    场景：我有1000美元的名义本金，我与我的交易对手(counterparty)以美元对人民币1:6.8（USD/CNY=6.8)的价格进行货币互换，那么我能买入到6800的人民币，而卖出1000美金，所以我的即期合约估值价格为：
     ValuationOfSpot = Notional * spotRate
+    因即期一般交割日为当日或者两个工作日内，所以一般把overnight和spotnight的汇率报价认为是该货币互换的估值价格。
     假设实际市场汇率为 MarketRate，那么我在此次交易中我的损益(Profit & Loss)即为
     P&L = Notional * (spotRate - MarketRate)
 
 ### 2.外汇远期
 
 #### 2.1 产品定义
-    
-    外汇远期
+
+    外汇远期(Forward Currency Swap):交易双方在未来的某一个时间点以商定好的汇率及头寸进行货币互换，远期往往用来对冲在到期日来临之前因汇率变动过大造成的风险，常见的是在即期货币互换完成后，签订一笔远期货币互换协议来对冲汇率风险。
     
 #### 2.2 估值方法
+    
+    采用Cashflow Discount方法
 
 ### 3.外汇掉期
 
