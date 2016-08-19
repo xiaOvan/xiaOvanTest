@@ -11,7 +11,7 @@ author: xiaOvan
 {:toc}
 
 ## xgboost 介绍
-    目前Kaggle上最火的算法,最近作者[陈天奇](http://weibo.com/u/2397265244?refer_flag=1001030001_&nick=%E9%99%88%E5%A4%A9%E5%A5%87%E6%80%AA)在KDD2016上做了presentation，并且发布了paper.
+    目前Kaggle上最火的算法,最近作者陈天奇在KDD2016上做了presentation，并且发布了paper.
     xgboost的全称是eXtreme Gradient Boosting。它是Gradient Boosting Machine的一个c++实现。xgboost最大的特点在于，它能够自动利用CPU的多线程进行并行，同时在算法上加以改进提高了精度。在数据建模中，当我们有数个连续值特征时，Boosting分类器是最常用的非线性分类器。它将成百上千个分类准确率较低的树模型组合起来，成为一个准确率很高的模型。这个模型会不断地迭代，每次迭代就生成一颗新的树。然而，在数据集较大较复杂的时候，我们可能需要几千次迭代运算，这将造成巨大的计算瓶颈。
     xgboost正是为了解决这个瓶颈而提出。单机它采用多线程来加速树的构建，并依赖深盟的另一个部件rabbit来进行分布式计算。
     由于其高效的C++实现，xgboost在性能上超过了最常用使用的R包gbm和Python包sklearn。例如在Kaggle的希格斯子竞赛数据上，单线程xgboost比其他两个包均要快出50%，在多线程上xgboost更是有接近线性的性能提升。由于其性能和使用便利性，xgboost已经在Kaggle竞赛中被广泛使用。
