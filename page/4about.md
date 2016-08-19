@@ -14,9 +14,9 @@ Nickname:xiaOv
 
 Location:Chengdu,China
 
-* 2013.2-now 兴业银行信息科技部
-* 2009.7-2013.1 中国工商银行软件研发中心（杭州）  
-* 2009 毕业于西南交通大学软件学院
+* 2013.2-now Dev at CIB
+* 2009.7-2013.1 Dev at ICBC  
+* 2009 graduated from SWJTU
 
 ## 联系我
 
