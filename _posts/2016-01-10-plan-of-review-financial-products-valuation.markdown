@@ -54,11 +54,15 @@ author: xiaOvan
 
 ### 常见估值模型
 
+#### 无风险套利原则
+
 #### Discounted Cash Flow(DCF)
     
     金融市场产品最常见及最常用的模型，没有之一，现金流折现是将按照标的产品未来的价值按照折线利率进行着先到估值日期，如果折现到估值日期后的价格大于目前标的产品的市场价格，那该产品为一个优秀的标的产品
     计算方法:
     DCF = 
+    
+    
     
 ### Two or Three Factor Model
 
@@ -71,6 +75,10 @@ author: xiaOvan
 #### 0.2 利率曲线
 
 #### 0.3 计息惯例
+
+#### 0.4 折现因子
+
+#### 0.5 foward rate to spot rate
  
 ### 1.外汇即期
 
@@ -95,10 +103,6 @@ author: xiaOvan
 #### 2.2 估值方法
     
     采用Cashflow Discount方法
-
-```math
-E = MC^2
-```
 
 ### 3.外汇掉期
 
