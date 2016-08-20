@@ -96,6 +96,10 @@ author: xiaOvan
     
     采用Cashflow Discount方法
 
+```math
+E = MC^2
+```
+
 ### 3.外汇掉期
 
 #### 3.1 产品定义
