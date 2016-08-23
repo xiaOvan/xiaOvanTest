@@ -64,6 +64,10 @@ author: xiaOvan
     数据集市中的数据来源于企业数据仓库。所有数据，除了一个例外，在导入到数据集市之前都应该经过企业数据仓库。这个例外就是用于数据集市的特定数据，它不能用于数据仓库的其他地方。外部数据通常属于这类范畴。如果情况不是这样，数据就会用于决策支持系统的其他地方，那么这些数据就必须经过企业数据仓库。
     数据集市包含两种类型的数据，通常是详细数据和汇总数据。
 
+facts and dimension table
+
+![image](http://o7q84v6xt.bkt.clouddn.com/facts.png)
+
 More about dimension model & facts 
 
 * [星型模式](https://en.wikipedia.org/wiki/Star_schema)
