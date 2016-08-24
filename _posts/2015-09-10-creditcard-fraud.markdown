@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 反欺诈风控系统架构
+title: 信用卡常见欺诈交易类型
 date: 2015-09-10 15:32:24.000000000 +09:00
 categories: 信用卡 欺诈
 tags: fraud credit-card
