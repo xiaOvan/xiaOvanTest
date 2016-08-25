@@ -65,6 +65,7 @@ bst = xgb.train(param, dtrain, num_round)
 # make prediction
 preds = bst.predict(dtest)
 ```
+[Kaggle Example By XgBoost](https://www.kaggle.com/cbrogan/titanic/xgboost-example-python/code)
 
 ### R
 
