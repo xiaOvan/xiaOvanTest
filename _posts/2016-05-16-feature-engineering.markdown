@@ -346,5 +346,6 @@ lda | LDA	 | 线性判别分析法
 ## 6.本文参考
 
   [本文参考](http://www.cnblogs.com/jasonfreak/p/5448385.html)
+  [how to be good at feature engeering?](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 
 
