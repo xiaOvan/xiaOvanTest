@@ -12,6 +12,8 @@ icon: bookmark
 
 ## Blog
 
+* [pluskid](http://freemind.pluskid.org/archive/)
+* [jerrylead](http://www.cnblogs.com/jerrylead)
 * [Andrew Cousera教程代码实现](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
 
 ## Websites
