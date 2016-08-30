@@ -315,4 +315,4 @@ d.to_csv('/fakepath/test_with_random.txt',index=False,header=True)
 
 [源码](https://github.com/xiaOvan/r360)
 
-如转载，请注明[本文]()出处
+如转载，请注明[本文](http://xiaovan.github.io/2016/08/21/a-simple-approach-r360-competition-python-sklearn/)出处
