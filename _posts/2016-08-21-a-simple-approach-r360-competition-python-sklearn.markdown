@@ -311,6 +311,7 @@ d.to_csv('/fakepath/test_with_random.txt',index=False,header=True)
 参考资料:
 
 [node2vec](http://snap.stanford.edu/node2vec/)
+[应用随机游走的社交网络用户分类方法](www.scholat.com/portaldownloadFile.html?fileId=2963)
 
 本文的源代码可从如下GitHub地址获取
 
