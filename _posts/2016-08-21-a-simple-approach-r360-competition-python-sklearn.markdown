@@ -27,6 +27,7 @@ author: xiaOvan
     a.根据数据对用户特征进行统计描述，并用可视化的图或表展示。
     b.根据数据分析用户特征与用户是否会二次贷款之间的关系。
     c.结合1)和2)的结论，利用所提供数据建立模型，使用0~1的浮点数给出用户是否会在平台进行二次贷款的可能性。
+
 &nbsp;&nbsp;&nbsp;&nbsp;[比赛链接](http://openresearch.rong360.com/dataanalysis2016/index/)
 
 
