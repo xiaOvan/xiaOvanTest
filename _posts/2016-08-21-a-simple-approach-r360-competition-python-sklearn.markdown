@@ -205,7 +205,7 @@ train_input_x = train_input_x[array_feature]
 test_input_x = test_input_x[array_feature]
 ```
 
-为加快模型迭代及收敛，我们使用preproccessing库的Normalizer类对数据进行归一化
+为加快模型迭代及收敛，我们使用preproccessing库的StandardScaler类对数据进行归一化
 
 ```python
 X = StandardScaler().fit_transform(train_input_x)
