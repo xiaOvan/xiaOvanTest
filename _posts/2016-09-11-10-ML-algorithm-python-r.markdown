@@ -2,6 +2,8 @@
 layout: post
 title: 10种机器学习算法概要(using python & r)
 date: 2016-09-11 15:32:24.000000000 +09:00
+categories: ML python r
+tags: ML python
 use_math: true
 ---
 
