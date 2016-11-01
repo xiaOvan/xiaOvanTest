@@ -23,6 +23,8 @@ icon: bookmark
 * [scikit-learn工具包](http://scikit-learn.org/)
 * [数据特征工程sklearn](http://www.cnblogs.com/jasonfreak/p/5448385.html)
 * [use mathjax](http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/)
+* [mesos中文网](http://www.mesoscn.cn/index.html)
+* [并发编程网](http://ifeve.com/category/spark/)
 
 ## Paper
 
