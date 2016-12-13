@@ -7,7 +7,7 @@
 
 # Site settings
 title: xiaOvan's Blog
-brief-intro: Big Data,ML Dev Engineer at Bank
+brief-intro: Dev at Bank
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xiaovan.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ weibo_username: fanxiongloveu
 #linkedIn_username: gaohaoyang
 #dribbble_username:
 
-description_footer: way on learning data！
+description_footer: way on learning ！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
